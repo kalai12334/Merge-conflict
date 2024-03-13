@@ -4,4 +4,10 @@ int a;
 int b;
 int c =a+b;
 console("print c value");
+
+int x;
+int M;
+int v=x*M;
+console("print v value");
+
 }
