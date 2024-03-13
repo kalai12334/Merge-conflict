@@ -2,6 +2,6 @@ class A {
 
 int a;
 int b;
-int c =a+b;
-console("print c value");
+int d =a+b;
+
 }
