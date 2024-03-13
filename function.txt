@@ -2,6 +2,7 @@ class A {
 
 int a;
 int b;
+
 int c =a+b;
 console("prindt c value");
 
@@ -9,5 +10,8 @@ int x;
 int M;
 int v=x*M;
 console("print v value");
+
+int jjd =a+b;
+
 
 }
