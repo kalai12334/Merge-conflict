@@ -3,7 +3,7 @@ class A {
 int a;
 int b;
 int c =a+b;
-console("print c value");
+console("prindt c value");
 
 int x;
 int M;
